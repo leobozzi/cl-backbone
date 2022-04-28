@@ -245,7 +245,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-optilogic.git',
+        'https://github.com/leobozzi/cl-backbone.git',
         'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
         'https://github.com/leobozzi/odoo-custom bit-odoo-custom',
 
