@@ -88,7 +88,6 @@
         # Agreement
         'agreement',
         'agreement_legal',
-        'agreement_legal_sale',
         'agreement_sale',
         'agreement_serviceprofile',
 
