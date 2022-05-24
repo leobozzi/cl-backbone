@@ -137,6 +137,9 @@
         'web_company_color',
         'backend_theme_v13',
         'odoo_whatsapp_integration',
+        'mis_builder',
+        'mis_builder_cash_flow',
+        'mis_builder_demo',
 
     ],
     'data': [
