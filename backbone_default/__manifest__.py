@@ -137,6 +137,9 @@
         'web_company_color',
         'backend_theme_v13',
         'odoo_whatsapp_integration',
+        'mis_builder',
+        'mis_builder_cash_flow',
+        'mis_builder_demo',
 
     ],
     'data': [
@@ -282,7 +285,7 @@
         # 'https://github.com/OCA/event oca-event',
         'https://github.com/OCA/field-service oca-field-service',
         'https://github.com/OCA/geospatial oca-geospatial',
-        # 'https://github.com/OCA/helpdesk oca-helpdesk',
+        'https://github.com/OCA/helpdesk oca-helpdesk',
         'https://github.com/OCA/hr oca-hr',
         'https://github.com/OCA/hr-attendance oca-hr-attendance',
         'https://github.com/OCA/hr-holidays oca-hr-holidays',
@@ -292,6 +295,7 @@
         'https://github.com/OCA/manufacture oca-manufacture',
         'https://github.com/OCA/manufacture-reporting oca-manufacture-reporting',
         'https://github.com/OCA/margin-analysis oca-margin-analysis',
+        'https://github.com/OCA/mis-builder oca-mis-builder',
         # 'https://github.com/OCA/multi-company oca-multi-company',
         # 'https://github.com/OCA/oca-custom oca-oca-custom',
         # 'https://github.com/OCA/operating-unit oca-operating-unit',
